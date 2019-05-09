@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuingTheoryLaba2", "QueuingTheoryLaba2\QueuingTheoryLaba2.csproj", "{D67DEA5E-C326-4F63-B3D0-47908F992008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{A36F624F-ADEE-4726-893E-59A834D49417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67DEA5E-C326-4F63-B3D0-47908F992008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67DEA5E-C326-4F63-B3D0-47908F992008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67DEA5E-C326-4F63-B3D0-47908F992008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67DEA5E-C326-4F63-B3D0-47908F992008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36F624F-ADEE-4726-893E-59A834D49417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36F624F-ADEE-4726-893E-59A834D49417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36F624F-ADEE-4726-893E-59A834D49417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36F624F-ADEE-4726-893E-59A834D49417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C542EC17-DB74-43DF-B931-3B0EC39D15AA}
+	EndGlobalSection
+EndGlobal
